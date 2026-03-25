@@ -1,0 +1,708 @@
+Verifikationsnr;Datum;Konto;Kontonamn;Debet;Kredit;Text
+1006;2025-01-01;2440;Leverantörsskulder;0,0;44011,04;Leverantörsfaktura LF-1006
+1006;2025-01-01;6110;Kontorsmaterial;35208,83;0,0;Leverantörsfaktura LF-1006
+1006;2025-01-01;2640;Ingående moms;8802,21;0,0;Leverantörsfaktura LF-1006
+1033;2025-01-01;5010;Lokalhyra;44156,64;0,0;Lokalhyra
+1033;2025-01-01;1930;Företagskonto;0,0;44156,64;Lokalhyra
+1119;2025-01-01;5010;Lokalhyra;23607,41;0,0;Lokalhyra
+1119;2025-01-01;1930;Företagskonto;0,0;23607,41;Lokalhyra
+1059;2025-01-02;1510;Kundfordringar;174154,01;0,0;Faktura F-1059
+1059;2025-01-02;3010;Försäljning varor 25%;0,0;139323,21;Faktura F-1059
+1059;2025-01-02;2610;Utgående moms 25%;0,0;34830,8;Faktura F-1059
+1198;2025-01-02;6110;Kontorsmaterial;1702,54;0,0;Kontorsmaterial
+1198;2025-01-02;1930;Företagskonto;0,0;1702,54;Kontorsmaterial
+1201;2025-01-02;5010;Lokalhyra;180000,0;0,0;Lokalhyra Q1 2025 — kvartalsbetalning
+1201;2025-01-02;2440;Leverantörsskulder;0,0;180000,0;Lokalhyra Q1 2025 — kvartalsbetalning
+1099;2025-01-04;2440;Leverantörsskulder;0,0;46364,58;Leverantörsfaktura LF-1099
+1099;2025-01-04;6110;Kontorsmaterial;37091,66;0,0;Leverantörsfaktura LF-1099
+1099;2025-01-04;2640;Ingående moms;9272,92;0,0;Leverantörsfaktura LF-1099
+1002;2025-01-05;1510;Kundfordringar;23232,260000000002;0,0;Faktura F-1002
+1002;2025-01-05;3010;Försäljning varor 25%;0,0;18585,81;Faktura F-1002
+1002;2025-01-05;2610;Utgående moms 25%;0,0;4646,45;Faktura F-1002
+1101;2025-01-05;7010;Löner;31673,01;0,0;Lön
+1101;2025-01-05;7510;Arbetsgivaravgifter;9951,66;0,0;Arbetsgivaravgifter
+1101;2025-01-05;1930;Företagskonto;0,0;41624,67;Lön + arbetsgivaravgifter
+1204;2025-01-05;6320;Ansvarsförsäkring;72000,0;0,0;Ansvarsförsäkring Q1 2025
+1204;2025-01-05;2440;Leverantörsskulder;0,0;72000,0;Ansvarsförsäkring Q1 2025
+1095;2025-01-06;5010;Lokalhyra;21302,3;0,0;Lokalhyra
+1095;2025-01-06;1930;Företagskonto;0,0;21302,3;Lokalhyra
+1199;2025-01-06;1510;Kundfordringar;106546,31;0,0;Faktura F-1199
+1199;2025-01-06;3010;Försäljning varor 25%;0,0;85237,05;Faktura F-1199
+1199;2025-01-06;2610;Utgående moms 25%;0,0;21309,26;Faktura F-1199
+1054;2025-01-07;1510;Kundfordringar;17236,05;0,0;Faktura F-1054
+1054;2025-01-07;3010;Försäljning varor 25%;0,0;13788,84;Faktura F-1054
+1054;2025-01-07;2610;Utgående moms 25%;0,0;3447,21;Faktura F-1054
+1067;2025-01-08;1510;Kundfordringar;112132,19;0,0;Faktura F-1067
+1067;2025-01-08;3010;Försäljning varor 25%;0,0;89705,75;Faktura F-1067
+1067;2025-01-08;2610;Utgående moms 25%;0,0;22426,44;Faktura F-1067
+1012;2025-01-09;1510;Kundfordringar;126103,97;0,0;Faktura F-1012
+1012;2025-01-09;3010;Försäljning varor 25%;0,0;100883,18;Faktura F-1012
+1012;2025-01-09;2610;Utgående moms 25%;0,0;25220,79;Faktura F-1012
+1069;2025-01-09;6110;Kontorsmaterial;1145,63;0,0;Kontorsmaterial
+1069;2025-01-09;1930;Företagskonto;0,0;1145,63;Kontorsmaterial
+1048;2025-01-10;1510;Kundfordringar;47745,7;0,0;Faktura F-1048
+1048;2025-01-10;3010;Försäljning varor 25%;0,0;38196,56;Faktura F-1048
+1048;2025-01-10;2610;Utgående moms 25%;0,0;9549,14;Faktura F-1048
+1057;2025-01-10;7010;Löner;49240,67;0,0;Lön
+1057;2025-01-10;7510;Arbetsgivaravgifter;15471,42;0,0;Arbetsgivaravgifter
+1057;2025-01-10;1930;Företagskonto;0,0;64712,09;Lön + arbetsgivaravgifter
+1076;2025-01-10;1510;Kundfordringar;89314,25;0,0;Faktura F-1076
+1076;2025-01-10;3010;Försäljning varor 25%;0,0;71451,4;Faktura F-1076
+1076;2025-01-10;2610;Utgående moms 25%;0,0;17862,85;Faktura F-1076
+1203;2025-01-10;6310;Företagsförsäkring;156000,0;0,0;Företagsförsäkring 2025 — helårspremie
+1203;2025-01-10;1930;Företagskonto;0,0;156000,0;Företagsförsäkring 2025 — helårspremie
+1013;2025-01-11;2440;Leverantörsskulder;0,0;54322,119999999995;Leverantörsfaktura LF-1013
+1013;2025-01-11;6210;Telefon;43457,7;0,0;Leverantörsfaktura LF-1013
+1013;2025-01-11;2640;Ingående moms;10864,42;0,0;Leverantörsfaktura LF-1013
+1143;2025-01-11;2440;Leverantörsskulder;0,0;10488,380000000001;Leverantörsfaktura LF-1143
+1143;2025-01-11;6210;Telefon;8390,7;0,0;Leverantörsfaktura LF-1143
+1143;2025-01-11;2640;Ingående moms;2097,68;0,0;Leverantörsfaktura LF-1143
+1156;2025-01-11;7010;Löner;29070,98;0,0;Lön
+1156;2025-01-11;7510;Arbetsgivaravgifter;9134,1;0,0;Arbetsgivaravgifter
+1156;2025-01-11;1930;Företagskonto;0,0;38205,08;Lön + arbetsgivaravgifter
+1189;2025-01-12;5010;Lokalhyra;21647,89;0,0;Lokalhyra
+1189;2025-01-12;1930;Företagskonto;0,0;21647,89;Lokalhyra
+1052;2025-01-13;7010;Löner;35628,93;0,0;Lön
+1052;2025-01-13;7510;Arbetsgivaravgifter;11194,61;0,0;Arbetsgivaravgifter
+1052;2025-01-13;1930;Företagskonto;0,0;46823,54;Lön + arbetsgivaravgifter
+1077;2025-01-13;1510;Kundfordringar;103696,24;0,0;Faktura F-1077
+1077;2025-01-13;3010;Försäljning varor 25%;0,0;82956,99;Faktura F-1077
+1077;2025-01-13;2610;Utgående moms 25%;0,0;20739,25;Faktura F-1077
+1197;2025-01-13;2440;Leverantörsskulder;0,0;19395,1;Leverantörsfaktura LF-1197
+1197;2025-01-13;6110;Kontorsmaterial;15516,08;0,0;Leverantörsfaktura LF-1197
+1197;2025-01-13;2640;Ingående moms;3879,02;0,0;Leverantörsfaktura LF-1197
+1055;2025-01-14;2440;Leverantörsskulder;0,0;12984,89;Leverantörsfaktura LF-1055
+1055;2025-01-14;6210;Telefon;10387,91;0,0;Leverantörsfaktura LF-1055
+1055;2025-01-14;2640;Ingående moms;2596,98;0,0;Leverantörsfaktura LF-1055
+1083;2025-01-14;2440;Leverantörsskulder;0,0;17448,54;Leverantörsfaktura LF-1083
+1083;2025-01-14;4010;Inköp varor;13958,83;0,0;Leverantörsfaktura LF-1083
+1083;2025-01-14;2640;Ingående moms;3489,71;0,0;Leverantörsfaktura LF-1083
+1130;2025-01-14;7010;Löner;31565,23;0,0;Lön
+1130;2025-01-14;7510;Arbetsgivaravgifter;9917,8;0,0;Arbetsgivaravgifter
+1130;2025-01-14;1930;Företagskonto;0,0;41483,03;Lön + arbetsgivaravgifter
+1027;2025-01-15;2440;Leverantörsskulder;0,0;39681,08;Leverantörsfaktura LF-1027
+1027;2025-01-15;6210;Telefon;31744,86;0,0;Leverantörsfaktura LF-1027
+1027;2025-01-15;2640;Ingående moms;7936,22;0,0;Leverantörsfaktura LF-1027
+1107;2025-01-15;5010;Lokalhyra;20357,03;0,0;Lokalhyra
+1107;2025-01-15;1930;Företagskonto;0,0;20357,03;Lokalhyra
+1167;2025-01-15;2440;Leverantörsskulder;0,0;60339,15;Leverantörsfaktura LF-1167
+1167;2025-01-15;4010;Inköp varor;48271,32;0,0;Leverantörsfaktura LF-1167
+1167;2025-01-15;2640;Ingående moms;12067,83;0,0;Leverantörsfaktura LF-1167
+1200;2025-01-15;5010;Lokalhyra;540000,0;0,0;Lokalhyra jan-dec 2025 — helårsavtal
+1200;2025-01-15;1930;Företagskonto;0,0;540000,0;Lokalhyra jan-dec 2025 — helårsavtal
+1041;2025-01-17;2440;Leverantörsskulder;0,0;41659,740000000005;Leverantörsfaktura LF-1041
+1041;2025-01-17;5410;Förbrukningsinventarier;33327,79;0,0;Leverantörsfaktura LF-1041
+1041;2025-01-17;2640;Ingående moms;8331,95;0,0;Leverantörsfaktura LF-1041
+1078;2025-01-17;5010;Lokalhyra;41425,93;0,0;Lokalhyra
+1078;2025-01-17;1930;Företagskonto;0,0;41425,93;Lokalhyra
+1024;2025-01-18;2440;Leverantörsskulder;0,0;46880,57;Leverantörsfaktura LF-1024
+1024;2025-01-18;6110;Kontorsmaterial;37504,46;0,0;Leverantörsfaktura LF-1024
+1024;2025-01-18;2640;Ingående moms;9376,11;0,0;Leverantörsfaktura LF-1024
+1093;2025-01-19;7010;Löner;28823,37;0,0;Lön
+1093;2025-01-19;7510;Arbetsgivaravgifter;9056,3;0,0;Arbetsgivaravgifter
+1093;2025-01-19;1930;Företagskonto;0,0;37879,67;Lön + arbetsgivaravgifter
+1084;2025-01-20;5010;Lokalhyra;23452,69;0,0;Lokalhyra
+1084;2025-01-20;1930;Företagskonto;0,0;23452,69;Lokalhyra
+1017;2025-01-21;7010;Löner;36383,66;0,0;Lön
+1017;2025-01-21;7510;Arbetsgivaravgifter;11431,75;0,0;Arbetsgivaravgifter
+1017;2025-01-21;1930;Företagskonto;0,0;47815,41;Lön + arbetsgivaravgifter
+1016;2025-01-22;6110;Kontorsmaterial;7426,7;0,0;Kontorsmaterial
+1016;2025-01-22;1930;Företagskonto;0,0;7426,7;Kontorsmaterial
+1060;2025-01-22;7010;Löner;39569,23;0,0;Lön
+1060;2025-01-22;7510;Arbetsgivaravgifter;12432,65;0,0;Arbetsgivaravgifter
+1060;2025-01-22;1930;Företagskonto;0,0;52001,880000000005;Lön + arbetsgivaravgifter
+1062;2025-01-22;7010;Löner;25064,66;0,0;Lön
+1062;2025-01-22;7510;Arbetsgivaravgifter;7875,32;0,0;Arbetsgivaravgifter
+1062;2025-01-22;1930;Företagskonto;0,0;32939,979999999996;Lön + arbetsgivaravgifter
+1166;2025-01-22;6110;Kontorsmaterial;6268,85;0,0;Kontorsmaterial
+1166;2025-01-22;1930;Företagskonto;0,0;6268,85;Kontorsmaterial
+1034;2025-01-23;6110;Kontorsmaterial;9169,96;0,0;Kontorsmaterial
+1034;2025-01-23;1930;Företagskonto;0,0;9169,96;Kontorsmaterial
+1056;2025-01-24;5010;Lokalhyra;28878,84;0,0;Lokalhyra
+1056;2025-01-24;1930;Företagskonto;0,0;28878,84;Lokalhyra
+1117;2025-01-25;7010;Löner;44947,88;0,0;Lön
+1117;2025-01-25;7510;Arbetsgivaravgifter;14122,62;0,0;Arbetsgivaravgifter
+1117;2025-01-25;1930;Företagskonto;0,0;59070,5;Lön + arbetsgivaravgifter
+1207;2025-01-25;7010;Löner;45000,0;0,0;Lön Anna Svensson
+1207;2025-01-25;7510;Arbetsgivaravgifter;14139,0;0,0;Arbetsgivaravgift Anna Svensson
+1207;2025-01-25;1930;Företagskonto;0,0;59139,0;Lön + AG-avg Anna Svensson
+1208;2025-01-25;7410;Pensionskostnader;2025,0;0,0;Pension Anna Svensson
+1208;2025-01-25;1930;Företagskonto;0,0;2025,0;Pension Anna Svensson
+1209;2025-01-25;7530;Särskild löneskatt pensionskostnader;491,27;0,0;SLP pension Anna Svensson
+1209;2025-01-25;2960;Övriga upplupna kostnader;0,0;491,27;SLP pension Anna Svensson
+1210;2025-01-25;7090;Förändring semesterlöneskuld;5760,0;0,0;Semesterlöneskuld Anna Svensson
+1210;2025-01-25;2920;Upplupna semesterlöner;0,0;5760,0;Semesterlöneskuld Anna Svensson
+1211;2025-01-25;7519;Arbetsgivaravgifter semesterlön;1809,79;0,0;AG-avg semester Anna Svensson
+1211;2025-01-25;2940;Upplupna arbetsgivaravgifter;0,0;1809,79;AG-avg semester Anna Svensson
+1212;2025-01-25;7010;Löner;38000,0;0,0;Lön Erik Lindberg
+1212;2025-01-25;7510;Arbetsgivaravgifter;11939,6;0,0;Arbetsgivaravgift Erik Lindberg
+1212;2025-01-25;1930;Företagskonto;0,0;49939,6;Lön + AG-avg Erik Lindberg
+1213;2025-01-25;7410;Pensionskostnader;1710,0;0,0;Pension Erik Lindberg
+1213;2025-01-25;1930;Företagskonto;0,0;1710,0;Pension Erik Lindberg
+1214;2025-01-25;7530;Särskild löneskatt pensionskostnader;537,28;0,0;SLP pension Erik Lindberg
+1214;2025-01-25;2960;Övriga upplupna kostnader;0,0;537,28;SLP pension Erik Lindberg
+1215;2025-01-25;7090;Förändring semesterlöneskuld;4864,0;0,0;Semesterlöneskuld Erik Lindberg
+1215;2025-01-25;2920;Upplupna semesterlöner;0,0;4864,0;Semesterlöneskuld Erik Lindberg
+1216;2025-01-25;7519;Arbetsgivaravgifter semesterlön;1528,27;0,0;AG-avg semester Erik Lindberg
+1216;2025-01-25;2940;Upplupna arbetsgivaravgifter;0,0;1528,27;AG-avg semester Erik Lindberg
+1217;2025-01-25;7010;Löner;52000,0;0,0;Lön Maria Johansson
+1217;2025-01-25;7510;Arbetsgivaravgifter;16338,4;0,0;Arbetsgivaravgift Maria Johansson
+1217;2025-01-25;1930;Företagskonto;0,0;68338,4;Lön + AG-avg Maria Johansson
+1218;2025-01-25;7410;Pensionskostnader;2340,0;0,0;Pension Maria Johansson
+1218;2025-01-25;1930;Företagskonto;0,0;2340,0;Pension Maria Johansson
+1219;2025-01-25;7530;Särskild löneskatt pensionskostnader;567,68;0,0;SLP pension Maria Johansson
+1219;2025-01-25;2960;Övriga upplupna kostnader;0,0;567,68;SLP pension Maria Johansson
+1220;2025-01-25;7090;Förändring semesterlöneskuld;6656,0;0,0;Semesterlöneskuld Maria Johansson
+1220;2025-01-25;2920;Upplupna semesterlöner;0,0;6656,0;Semesterlöneskuld Maria Johansson
+1221;2025-01-25;7519;Arbetsgivaravgifter semesterlön;2091,32;0,0;AG-avg semester Maria Johansson
+1221;2025-01-25;2940;Upplupna arbetsgivaravgifter;0,0;2091,32;AG-avg semester Maria Johansson
+1222;2025-01-25;7010;Löner;41000,0;0,0;Lön Karl Nilsson
+1222;2025-01-25;7510;Arbetsgivaravgifter;12882,2;0,0;Arbetsgivaravgift Karl Nilsson
+1222;2025-01-25;1930;Företagskonto;0,0;53882,2;Lön + AG-avg Karl Nilsson
+1223;2025-01-25;7410;Pensionskostnader;1845,0;0,0;Pension Karl Nilsson
+1223;2025-01-25;1930;Företagskonto;0,0;1845,0;Pension Karl Nilsson
+1224;2025-01-25;7530;Särskild löneskatt pensionskostnader;447,6;0,0;SLP pension Karl Nilsson
+1224;2025-01-25;2960;Övriga upplupna kostnader;0,0;447,6;SLP pension Karl Nilsson
+1225;2025-01-25;7090;Förändring semesterlöneskuld;4920,0;0,0;Semesterlöneskuld Karl Nilsson
+1225;2025-01-25;2920;Upplupna semesterlöner;0,0;4920,0;Semesterlöneskuld Karl Nilsson
+1226;2025-01-25;7519;Arbetsgivaravgifter semesterlön;1648,92;0,0;AG-avg semester Karl Nilsson
+1226;2025-01-25;2940;Upplupna arbetsgivaravgifter;0,0;1648,92;AG-avg semester Karl Nilsson
+1227;2025-01-25;7010;Löner;35000,0;0,0;Lön Sara Eriksson
+1227;2025-01-25;7510;Arbetsgivaravgifter;10997,0;0,0;Arbetsgivaravgift Sara Eriksson
+1227;2025-01-25;1930;Företagskonto;0,0;45997,0;Lön + AG-avg Sara Eriksson
+1228;2025-01-25;7410;Pensionskostnader;1575,0;0,0;Pension Sara Eriksson
+1228;2025-01-25;1930;Företagskonto;0,0;1575,0;Pension Sara Eriksson
+1229;2025-01-25;7530;Särskild löneskatt pensionskostnader;382,1;0,0;SLP pension Sara Eriksson
+1229;2025-01-25;2960;Övriga upplupna kostnader;0,0;382,1;SLP pension Sara Eriksson
+1230;2025-01-25;7090;Förändring semesterlöneskuld;4480,0;0,0;Semesterlöneskuld Sara Eriksson
+1230;2025-01-25;2920;Upplupna semesterlöner;0,0;4480,0;Semesterlöneskuld Sara Eriksson
+1231;2025-01-25;7519;Arbetsgivaravgifter semesterlön;1407,62;0,0;AG-avg semester Sara Eriksson
+1231;2025-01-25;2940;Upplupna arbetsgivaravgifter;0,0;1407,62;AG-avg semester Sara Eriksson
+1126;2025-01-26;2440;Leverantörsskulder;0,0;2746,05;Leverantörsfaktura LF-1126
+1126;2025-01-26;5410;Förbrukningsinventarier;2196,84;0,0;Leverantörsfaktura LF-1126
+1126;2025-01-26;2640;Ingående moms;549,21;0,0;Leverantörsfaktura LF-1126
+1170;2025-01-26;1510;Kundfordringar;113567,74;0,0;Faktura F-1170
+1170;2025-01-26;3010;Försäljning varor 25%;0,0;90854,19;Faktura F-1170
+1170;2025-01-26;2610;Utgående moms 25%;0,0;22713,55;Faktura F-1170
+1085;2025-01-27;5010;Lokalhyra;21107,92;0,0;Lokalhyra
+1085;2025-01-27;1930;Företagskonto;0,0;21107,92;Lokalhyra
+1007;2025-01-28;5010;Lokalhyra;18066,31;0,0;Lokalhyra
+1007;2025-01-28;1930;Företagskonto;0,0;18066,31;Lokalhyra
+1061;2025-01-28;7010;Löner;52073,29;0,0;Lön
+1061;2025-01-28;7510;Arbetsgivaravgifter;16361,43;0,0;Arbetsgivaravgifter
+1061;2025-01-28;1930;Företagskonto;0,0;68434,72;Lön + arbetsgivaravgifter
+1144;2025-01-28;1510;Kundfordringar;81444,79999999999;0,0;Faktura F-1144
+1144;2025-01-28;3010;Försäljning varor 25%;0,0;65155,84;Faktura F-1144
+1144;2025-01-28;2610;Utgående moms 25%;0,0;16288,96;Faktura F-1144
+1001;2025-01-29;2440;Leverantörsskulder;0,0;46358,86;Leverantörsfaktura LF-1001
+1001;2025-01-29;4010;Inköp varor;37087,09;0,0;Leverantörsfaktura LF-1001
+1001;2025-01-29;2640;Ingående moms;9271,77;0,0;Leverantörsfaktura LF-1001
+1026;2025-01-29;2440;Leverantörsskulder;0,0;32458,49;Leverantörsfaktura LF-1026
+1026;2025-01-29;4010;Inköp varor;25966,79;0,0;Leverantörsfaktura LF-1026
+1026;2025-01-29;2640;Ingående moms;6491,7;0,0;Leverantörsfaktura LF-1026
+1046;2025-01-29;1510;Kundfordringar;67528,01000000001;0,0;Faktura F-1046
+1046;2025-01-29;3010;Försäljning varor 25%;0,0;54022,41;Faktura F-1046
+1046;2025-01-29;2610;Utgående moms 25%;0,0;13505,6;Faktura F-1046
+1047;2025-01-30;6110;Kontorsmaterial;2592,07;0,0;Kontorsmaterial
+1047;2025-01-30;1930;Företagskonto;0,0;2592,07;Kontorsmaterial
+1103;2025-01-30;2440;Leverantörsskulder;0,0;2699,45;Leverantörsfaktura LF-1103
+1103;2025-01-30;5410;Förbrukningsinventarier;2159,56;0,0;Leverantörsfaktura LF-1103
+1103;2025-01-30;2640;Ingående moms;539,89;0,0;Leverantörsfaktura LF-1103
+1194;2025-01-30;1510;Kundfordringar;136982,79;0,0;Faktura F-1194
+1194;2025-01-30;3010;Försäljning varor 25%;0,0;109586,23;Faktura F-1194
+1194;2025-01-30;2610;Utgående moms 25%;0,0;27396,56;Faktura F-1194
+1070;2025-01-31;7010;Löner;28596,6;0,0;Lön
+1070;2025-01-31;7510;Arbetsgivaravgifter;8985,05;0,0;Arbetsgivaravgifter
+1070;2025-01-31;1930;Företagskonto;0,0;37581,649999999994;Lön + arbetsgivaravgifter
+1098;2025-01-31;2440;Leverantörsskulder;0,0;61042,619999999995;Leverantörsfaktura LF-1098
+1098;2025-01-31;5410;Förbrukningsinventarier;48834,1;0,0;Leverantörsfaktura LF-1098
+1098;2025-01-31;2640;Ingående moms;12208,52;0,0;Leverantörsfaktura LF-1098
+1125;2025-01-31;5010;Lokalhyra;21739,22;0,0;Lokalhyra
+1125;2025-01-31;1930;Företagskonto;0,0;21739,22;Lokalhyra
+1187;2025-01-31;7010;Löner;44377,09;0,0;Lön
+1187;2025-01-31;7510;Arbetsgivaravgifter;13943,28;0,0;Arbetsgivaravgifter
+1187;2025-01-31;1930;Företagskonto;0,0;58320,369999999995;Lön + arbetsgivaravgifter
+1202;2025-01-31;5060;Hyra av inventarier;96000,0;0,0;Hyra kopiatorer jan-jun 2025
+1202;2025-01-31;1930;Företagskonto;0,0;96000,0;Hyra kopiatorer jan-jun 2025
+1285;2025-01-31;7010;Löner;28596,6;0,0;Lön
+1286;2025-01-31;5410;Förbrukningsinventarier;48834,1;0,0;Leverantörsfaktura LF-1098
+1079;2025-02-01;5010;Lokalhyra;23549,62;0,0;Lokalhyra
+1079;2025-02-01;1930;Företagskonto;0,0;23549,62;Lokalhyra
+1096;2025-02-01;1510;Kundfordringar;70354,25;0,0;Faktura F-1096
+1096;2025-02-01;3010;Försäljning varor 25%;0,0;56283,4;Faktura F-1096
+1096;2025-02-01;2610;Utgående moms 25%;0,0;14070,85;Faktura F-1096
+1129;2025-02-01;2440;Leverantörsskulder;0,0;41433,549999999996;Leverantörsfaktura LF-1129
+1129;2025-02-01;4010;Inköp varor;33146,84;0,0;Leverantörsfaktura LF-1129
+1129;2025-02-01;2640;Ingående moms;8286,71;0,0;Leverantörsfaktura LF-1129
+1139;2025-02-01;5010;Lokalhyra;37974,41;0,0;Lokalhyra
+1139;2025-02-01;1930;Företagskonto;0,0;37974,41;Lokalhyra
+1163;2025-02-01;2440;Leverantörsskulder;0,0;52652,759999999995;Leverantörsfaktura LF-1163
+1163;2025-02-01;5410;Förbrukningsinventarier;42122,21;0,0;Leverantörsfaktura LF-1163
+1163;2025-02-01;2640;Ingående moms;10530,55;0,0;Leverantörsfaktura LF-1163
+1171;2025-02-01;1510;Kundfordringar;132616,24;0,0;Faktura F-1171
+1171;2025-02-01;3010;Försäljning varor 25%;0,0;106092,99;Faktura F-1171
+1171;2025-02-01;2610;Utgående moms 25%;0,0;26523,25;Faktura F-1171
+1180;2025-02-01;1510;Kundfordringar;56805,75;0,0;Faktura F-1180
+1180;2025-02-01;3010;Försäljning varor 25%;0,0;45444,6;Faktura F-1180
+1180;2025-02-01;2610;Utgående moms 25%;0,0;11361,15;Faktura F-1180
+1087;2025-02-02;1510;Kundfordringar;22979,1;0,0;Faktura F-1087
+1087;2025-02-02;3010;Försäljning varor 25%;0,0;18383,28;Faktura F-1087
+1087;2025-02-02;2610;Utgående moms 25%;0,0;4595,82;Faktura F-1087
+1111;2025-02-02;1510;Kundfordringar;134717,34;0,0;Faktura F-1111
+1111;2025-02-02;3010;Försäljning varor 25%;0,0;107773,87;Faktura F-1111
+1111;2025-02-02;2620;Utgående moms 12%;0,0;26943,47;Faktura F-1111
+1009;2025-02-03;1510;Kundfordringar;138513,89;0,0;Faktura F-1009
+1009;2025-02-03;3010;Försäljning varor 25%;0,0;110811,11;Faktura F-1009
+1009;2025-02-03;2610;Utgående moms 25%;0,0;27702,78;Faktura F-1009
+1108;2025-02-03;1510;Kundfordringar;25897,96;0,0;Faktura F-1108
+1108;2025-02-03;3010;Försäljning varor 25%;0,0;20718,37;Faktura F-1108
+1108;2025-02-03;2610;Utgående moms 25%;0,0;5179,59;Faktura F-1108
+1088;2025-02-05;1510;Kundfordringar;6892,65;0,0;Faktura F-1088
+1088;2025-02-05;3010;Försäljning varor 25%;0,0;5514,12;Faktura F-1088
+1088;2025-02-05;2610;Utgående moms 25%;0,0;1378,53;Faktura F-1088
+1104;2025-02-05;1510;Kundfordringar;181498,65000000002;0,0;Faktura F-1104
+1104;2025-02-05;3010;Försäljning varor 25%;0,0;145198,92;Faktura F-1104
+1104;2025-02-05;2610;Utgående moms 25%;0,0;36299,73;Faktura F-1104
+1141;2025-02-05;7010;Löner;27324,5;0,0;Lön
+1141;2025-02-05;7510;Arbetsgivaravgifter;8585,36;0,0;Arbetsgivaravgifter
+1141;2025-02-05;1930;Företagskonto;0,0;35909,86;Lön + arbetsgivaravgifter
+1123;2025-02-06;6110;Kontorsmaterial;6806,61;0,0;Kontorsmaterial
+1123;2025-02-06;1930;Företagskonto;0,0;6806,61;Kontorsmaterial
+1142;2025-02-06;2440;Leverantörsskulder;0,0;17892,550000000003;Leverantörsfaktura LF-1142
+1142;2025-02-06;6110;Kontorsmaterial;14314,04;0,0;Leverantörsfaktura LF-1142
+1142;2025-02-06;2640;Ingående moms;3578,51;0,0;Leverantörsfaktura LF-1142
+1066;2025-02-07;2440;Leverantörsskulder;0,0;60583,450000000004;Leverantörsfaktura LF-1066
+1066;2025-02-07;4010;Inköp varor;48466,76;0,0;Leverantörsfaktura LF-1066
+1066;2025-02-07;2640;Ingående moms;12116,69;0,0;Leverantörsfaktura LF-1066
+1075;2025-02-08;7010;Löner;34485,32;0,0;Lön
+1075;2025-02-08;7510;Arbetsgivaravgifter;10835,29;0,0;Arbetsgivaravgifter
+1075;2025-02-08;1930;Företagskonto;0,0;45320,61;Lön + arbetsgivaravgifter
+1039;2025-02-09;2440;Leverantörsskulder;0,0;4797,91;Leverantörsfaktura LF-1039
+1039;2025-02-09;4010;Inköp varor;3838,33;0,0;Leverantörsfaktura LF-1039
+1039;2025-02-09;2640;Ingående moms;959,58;0,0;Leverantörsfaktura LF-1039
+1094;2025-02-09;5010;Lokalhyra;41969,44;0,0;Lokalhyra
+1094;2025-02-09;1930;Företagskonto;0,0;41969,44;Lokalhyra
+1115;2025-02-09;7010;Löner;34785,49;0,0;Lön
+1115;2025-02-09;7510;Arbetsgivaravgifter;10929,6;0,0;Arbetsgivaravgifter
+1115;2025-02-09;1930;Företagskonto;0,0;45715,09;Lön + arbetsgivaravgifter
+1168;2025-02-09;6110;Kontorsmaterial;6934,8;0,0;Kontorsmaterial
+1168;2025-02-09;1930;Företagskonto;0,0;6934,8;Kontorsmaterial
+1073;2025-02-10;5010;Lokalhyra;21127,78;0,0;Lokalhyra
+1073;2025-02-10;1930;Företagskonto;0,0;21127,78;Lokalhyra
+1074;2025-02-10;2440;Leverantörsskulder;0,0;17518,89;Leverantörsfaktura LF-1074
+1074;2025-02-10;5410;Förbrukningsinventarier;14015,11;0,0;Leverantörsfaktura LF-1074
+1074;2025-02-10;2640;Ingående moms;3503,78;0,0;Leverantörsfaktura LF-1074
+1109;2025-02-10;7010;Löner;43186,27;0,0;Lön
+1109;2025-02-10;7510;Arbetsgivaravgifter;13569,13;0,0;Arbetsgivaravgifter
+1109;2025-02-10;1930;Företagskonto;0,0;56755,399999999994;Lön + arbetsgivaravgifter
+1019;2025-02-11;1510;Kundfordringar;47764,96;0,0;Faktura F-1019
+1019;2025-02-11;3010;Försäljning varor 25%;0,0;38211,97;Faktura F-1019
+1019;2025-02-11;2630;Utgående moms 6%;0,0;9552,99;Faktura F-1019
+1121;2025-02-11;7010;Löner;38253,58;0,0;Lön
+1121;2025-02-11;7510;Arbetsgivaravgifter;12019,27;0,0;Arbetsgivaravgifter
+1121;2025-02-11;1930;Företagskonto;0,0;50272,850000000006;Lön + arbetsgivaravgifter
+1183;2025-02-11;2440;Leverantörsskulder;0,0;31112,440000000002;Leverantörsfaktura LF-1183
+1183;2025-02-11;6110;Kontorsmaterial;24889,95;0,0;Leverantörsfaktura LF-1183
+1183;2025-02-11;2640;Ingående moms;6222,49;0,0;Leverantörsfaktura LF-1183
+1049;2025-02-12;1510;Kundfordringar;99440,8;0,0;Faktura F-1049
+1049;2025-02-12;3010;Försäljning varor 25%;0,0;79552,64;Faktura F-1049
+1049;2025-02-12;2610;Utgående moms 25%;0,0;19888,16;Faktura F-1049
+1282;2025-02-12;1510;Kundfordringar;99440,8;0,0;Faktura F-1049
+1032;2025-02-13;1510;Kundfordringar;59446,899999999994;0,0;Faktura F-1032
+1032;2025-02-13;3010;Försäljning varor 25%;0,0;47557,52;Faktura F-1032
+1032;2025-02-13;2610;Utgående moms 25%;0,0;11889,38;Faktura F-1032
+1184;2025-02-13;5010;Lokalhyra;41409,6;0,0;Lokalhyra
+1184;2025-02-13;1930;Företagskonto;0,0;41409,6;Lokalhyra
+1162;2025-02-14;2440;Leverantörsskulder;0,0;41071,32;Leverantörsfaktura LF-1162
+1162;2025-02-14;4010;Inköp varor;32857,06;0,0;Leverantörsfaktura LF-1162
+1162;2025-02-14;2640;Ingående moms;8214,26;0,0;Leverantörsfaktura LF-1162
+1015;2025-02-15;2440;Leverantörsskulder;0,0;42298,23;Leverantörsfaktura LF-1015
+1015;2025-02-15;4010;Inköp varor;33838,58;0,0;Leverantörsfaktura LF-1015
+1015;2025-02-15;2640;Ingående moms;8459,65;0,0;Leverantörsfaktura LF-1015
+1149;2025-02-15;5010;Lokalhyra;37604,25;0,0;Lokalhyra
+1149;2025-02-15;1930;Företagskonto;0,0;37604,25;Lokalhyra
+1206;2025-02-15;5020;Fastighetsskatt;84000,0;0,0;Fastighetsskatt 2025
+1206;2025-02-15;1930;Företagskonto;0,0;84000,0;Fastighetsskatt 2025
+1112;2025-02-16;7010;Löner;27099,21;0,0;Lön
+1112;2025-02-16;7510;Arbetsgivaravgifter;8514,57;0,0;Arbetsgivaravgifter
+1112;2025-02-16;1930;Företagskonto;0,0;35613,78;Lön + arbetsgivaravgifter
+1176;2025-02-16;7010;Löner;46219,26;0,0;Lön
+1176;2025-02-16;7510;Arbetsgivaravgifter;14522,09;0,0;Arbetsgivaravgifter
+1176;2025-02-16;1930;Företagskonto;0,0;60741,350000000006;Lön + arbetsgivaravgifter
+1037;2025-02-17;2440;Leverantörsskulder;0,0;34286,96;Leverantörsfaktura LF-1037
+1037;2025-02-17;4010;Inköp varor;27429,57;0,0;Leverantörsfaktura LF-1037
+1037;2025-02-17;2640;Ingående moms;6857,39;0,0;Leverantörsfaktura LF-1037
+1174;2025-02-17;1510;Kundfordringar;97955,39;0,0;Faktura F-1174
+1174;2025-02-17;3010;Försäljning varor 25%;0,0;78364,31;Faktura F-1174
+1174;2025-02-17;2610;Utgående moms 25%;0,0;19591,08;Faktura F-1174
+1008;2025-02-18;1510;Kundfordringar;71315,01000000001;0,0;Faktura F-1008
+1008;2025-02-18;3010;Försäljning varor 25%;0,0;57052,01;Faktura F-1008
+1008;2025-02-18;2610;Utgående moms 25%;0,0;14263,0;Faktura F-1008
+1010;2025-02-18;1510;Kundfordringar;106307,36;0,0;Faktura F-1010
+1010;2025-02-18;3010;Försäljning varor 25%;0,0;85045,89;Faktura F-1010
+1010;2025-02-18;2610;Utgående moms 25%;0,0;21261,47;Faktura F-1010
+1118;2025-02-18;2440;Leverantörsskulder;0,0;38950,29;Leverantörsfaktura LF-1118
+1118;2025-02-18;6110;Kontorsmaterial;31160,23;0,0;Leverantörsfaktura LF-1118
+1118;2025-02-18;2640;Ingående moms;7790,06;0,0;Leverantörsfaktura LF-1118
+1148;2025-02-18;7010;Löner;25176,88;0,0;Lön
+1148;2025-02-18;7510;Arbetsgivaravgifter;7910,58;0,0;Arbetsgivaravgifter
+1148;2025-02-18;1930;Företagskonto;0,0;33087,46;Lön + arbetsgivaravgifter
+1159;2025-02-18;5010;Lokalhyra;37560,29;0,0;Lokalhyra
+1159;2025-02-18;1930;Företagskonto;0,0;37560,29;Lokalhyra
+1169;2025-02-18;7010;Löner;53244,12;0,0;Lön
+1169;2025-02-18;7510;Arbetsgivaravgifter;16729,3;0,0;Arbetsgivaravgifter
+1169;2025-02-18;1930;Företagskonto;0,0;69973,42;Lön + arbetsgivaravgifter
+1182;2025-02-18;5010;Lokalhyra;15861,0;0,0;Lokalhyra
+1182;2025-02-18;1930;Företagskonto;0,0;15861,0;Lokalhyra
+1028;2025-02-19;7010;Löner;42876,65;0,0;Lön
+1028;2025-02-19;7510;Arbetsgivaravgifter;13471,84;0,0;Arbetsgivaravgifter
+1028;2025-02-19;1930;Företagskonto;0,0;56348,490000000005;Lön + arbetsgivaravgifter
+1063;2025-02-19;5010;Lokalhyra;42795,54;0,0;Lokalhyra
+1063;2025-02-19;1930;Företagskonto;0,0;42795,54;Lokalhyra
+1020;2025-02-21;5010;Lokalhyra;16985,66;0,0;Lokalhyra
+1020;2025-02-21;1930;Företagskonto;0,0;16985,66;Lokalhyra
+1053;2025-02-22;7010;Löner;50915,1;0,0;Lön
+1053;2025-02-22;7510;Arbetsgivaravgifter;15997,52;0,0;Arbetsgivaravgifter
+1053;2025-02-22;1930;Företagskonto;0,0;66912,62;Lön + arbetsgivaravgifter
+1097;2025-02-22;6110;Kontorsmaterial;7620,04;0,0;Kontorsmaterial
+1097;2025-02-22;1930;Företagskonto;0,0;7620,04;Kontorsmaterial
+1100;2025-02-22;2440;Leverantörsskulder;0,0;17591,85;Leverantörsfaktura LF-1100
+1100;2025-02-22;4010;Inköp varor;14073,48;0,0;Leverantörsfaktura LF-1100
+1100;2025-02-22;2640;Ingående moms;3518,37;0,0;Leverantörsfaktura LF-1100
+1072;2025-02-23;6110;Kontorsmaterial;5869,66;0,0;Kontorsmaterial
+1072;2025-02-23;1930;Företagskonto;0,0;5869,66;Kontorsmaterial
+1146;2025-02-23;7010;Löner;52145,15;0,0;Lön
+1146;2025-02-23;7510;Arbetsgivaravgifter;16384,01;0,0;Arbetsgivaravgifter
+1146;2025-02-23;1930;Företagskonto;0,0;68529,16;Lön + arbetsgivaravgifter
+1150;2025-02-23;6110;Kontorsmaterial;7601,4;0,0;Kontorsmaterial
+1150;2025-02-23;1930;Företagskonto;0,0;7601,4;Kontorsmaterial
+1160;2025-02-23;5010;Lokalhyra;40047,33;0,0;Lokalhyra
+1160;2025-02-23;1930;Företagskonto;0,0;40047,33;Lokalhyra
+1175;2025-02-23;7010;Löner;28166,17;0,0;Lön
+1175;2025-02-23;7510;Arbetsgivaravgifter;8849,81;0,0;Arbetsgivaravgifter
+1175;2025-02-23;1930;Företagskonto;0,0;37015,979999999996;Lön + arbetsgivaravgifter
+1025;2025-02-24;6110;Kontorsmaterial;4294,3;0,0;Kontorsmaterial
+1025;2025-02-24;1930;Företagskonto;0,0;4294,3;Kontorsmaterial
+1120;2025-02-25;6110;Kontorsmaterial;6263,28;0,0;Kontorsmaterial
+1120;2025-02-25;1930;Företagskonto;0,0;6263,28;Kontorsmaterial
+1177;2025-02-25;2440;Leverantörsskulder;0,0;46194,96;Leverantörsfaktura LF-1177
+1177;2025-02-25;6110;Kontorsmaterial;36955,97;0,0;Leverantörsfaktura LF-1177
+1177;2025-02-25;2640;Ingående moms;9238,99;0,0;Leverantörsfaktura LF-1177
+1232;2025-02-25;7010;Löner;45000,0;0,0;Lön Anna Svensson
+1232;2025-02-25;7510;Arbetsgivaravgifter;14139,0;0,0;Arbetsgivaravgift Anna Svensson
+1232;2025-02-25;1930;Företagskonto;0,0;59139,0;Lön + AG-avg Anna Svensson
+1233;2025-02-25;7410;Pensionskostnader;2025,0;0,0;Pension Anna Svensson
+1233;2025-02-25;1930;Företagskonto;0,0;2025,0;Pension Anna Svensson
+1234;2025-02-25;7530;Särskild löneskatt pensionskostnader;491,27;0,0;SLP pension Anna Svensson
+1234;2025-02-25;2960;Övriga upplupna kostnader;0,0;491,27;SLP pension Anna Svensson
+1235;2025-02-25;7090;Förändring semesterlöneskuld;5760,0;0,0;Semesterlöneskuld Anna Svensson
+1235;2025-02-25;2920;Upplupna semesterlöner;0,0;5760,0;Semesterlöneskuld Anna Svensson
+1236;2025-02-25;7519;Arbetsgivaravgifter semesterlön;1809,79;0,0;AG-avg semester Anna Svensson
+1236;2025-02-25;2940;Upplupna arbetsgivaravgifter;0,0;1809,79;AG-avg semester Anna Svensson
+1237;2025-02-25;7010;Löner;38000,0;0,0;Lön Erik Lindberg
+1237;2025-02-25;7510;Arbetsgivaravgifter;11939,6;0,0;Arbetsgivaravgift Erik Lindberg
+1237;2025-02-25;1930;Företagskonto;0,0;49939,6;Lön + AG-avg Erik Lindberg
+1238;2025-02-25;7410;Pensionskostnader;1710,0;0,0;Pension Erik Lindberg
+1238;2025-02-25;1930;Företagskonto;0,0;1710,0;Pension Erik Lindberg
+1239;2025-02-25;7530;Särskild löneskatt pensionskostnader;537,28;0,0;SLP pension Erik Lindberg
+1239;2025-02-25;2960;Övriga upplupna kostnader;0,0;537,28;SLP pension Erik Lindberg
+1240;2025-02-25;7090;Förändring semesterlöneskuld;4864,0;0,0;Semesterlöneskuld Erik Lindberg
+1240;2025-02-25;2920;Upplupna semesterlöner;0,0;4864,0;Semesterlöneskuld Erik Lindberg
+1241;2025-02-25;7519;Arbetsgivaravgifter semesterlön;1528,27;0,0;AG-avg semester Erik Lindberg
+1241;2025-02-25;2940;Upplupna arbetsgivaravgifter;0,0;1528,27;AG-avg semester Erik Lindberg
+1242;2025-02-25;7010;Löner;52000,0;0,0;Lön Maria Johansson
+1242;2025-02-25;7510;Arbetsgivaravgifter;16338,4;0,0;Arbetsgivaravgift Maria Johansson
+1242;2025-02-25;1930;Företagskonto;0,0;68338,4;Lön + AG-avg Maria Johansson
+1243;2025-02-25;7410;Pensionskostnader;2340,0;0,0;Pension Maria Johansson
+1243;2025-02-25;1930;Företagskonto;0,0;2340,0;Pension Maria Johansson
+1244;2025-02-25;7530;Särskild löneskatt pensionskostnader;567,68;0,0;SLP pension Maria Johansson
+1244;2025-02-25;2960;Övriga upplupna kostnader;0,0;567,68;SLP pension Maria Johansson
+1245;2025-02-25;7090;Förändring semesterlöneskuld;6656,0;0,0;Semesterlöneskuld Maria Johansson
+1245;2025-02-25;2920;Upplupna semesterlöner;0,0;6656,0;Semesterlöneskuld Maria Johansson
+1246;2025-02-25;7519;Arbetsgivaravgifter semesterlön;2091,32;0,0;AG-avg semester Maria Johansson
+1246;2025-02-25;2940;Upplupna arbetsgivaravgifter;0,0;2091,32;AG-avg semester Maria Johansson
+1247;2025-02-25;7010;Löner;41000,0;0,0;Lön Karl Nilsson
+1247;2025-02-25;7510;Arbetsgivaravgifter;12882,2;0,0;Arbetsgivaravgift Karl Nilsson
+1247;2025-02-25;1930;Företagskonto;0,0;53882,2;Lön + AG-avg Karl Nilsson
+1248;2025-02-25;7410;Pensionskostnader;1845,0;0,0;Pension Karl Nilsson
+1248;2025-02-25;1930;Företagskonto;0,0;1845,0;Pension Karl Nilsson
+1249;2025-02-25;7530;Särskild löneskatt pensionskostnader;447,6;0,0;SLP pension Karl Nilsson
+1249;2025-02-25;2960;Övriga upplupna kostnader;0,0;447,6;SLP pension Karl Nilsson
+1250;2025-02-25;7090;Förändring semesterlöneskuld;4920,0;0,0;Semesterlöneskuld Karl Nilsson
+1250;2025-02-25;2920;Upplupna semesterlöner;0,0;4920,0;Semesterlöneskuld Karl Nilsson
+1251;2025-02-25;7519;Arbetsgivaravgifter semesterlön;1648,92;0,0;AG-avg semester Karl Nilsson
+1251;2025-02-25;2940;Upplupna arbetsgivaravgifter;0,0;1648,92;AG-avg semester Karl Nilsson
+1252;2025-02-25;7010;Löner;35000,0;0,0;Lön Sara Eriksson
+1252;2025-02-25;7510;Arbetsgivaravgifter;10997,0;0,0;Arbetsgivaravgift Sara Eriksson
+1252;2025-02-25;1930;Företagskonto;0,0;45997,0;Lön + AG-avg Sara Eriksson
+1253;2025-02-25;7410;Pensionskostnader;1575,0;0,0;Pension Sara Eriksson
+1253;2025-02-25;1930;Företagskonto;0,0;1575,0;Pension Sara Eriksson
+1255;2025-02-25;7090;Förändring semesterlöneskuld;4480,0;0,0;Semesterlöneskuld Sara Eriksson
+1255;2025-02-25;2920;Upplupna semesterlöner;0,0;4480,0;Semesterlöneskuld Sara Eriksson
+1256;2025-02-25;7519;Arbetsgivaravgifter semesterlön;1407,62;0,0;AG-avg semester Sara Eriksson
+1256;2025-02-25;2940;Upplupna arbetsgivaravgifter;0,0;1407,62;AG-avg semester Sara Eriksson
+1080;2025-02-26;6110;Kontorsmaterial;7183,63;0,0;Kontorsmaterial
+1080;2025-02-26;1930;Företagskonto;0,0;7183,63;Kontorsmaterial
+1090;2025-02-26;6110;Kontorsmaterial;7203,84;0,0;Kontorsmaterial
+1090;2025-02-26;1930;Företagskonto;0,0;7203,84;Kontorsmaterial
+1135;2025-02-26;6110;Kontorsmaterial;8242,56;0,0;Kontorsmaterial
+1135;2025-02-26;1930;Företagskonto;0,0;8242,56;Kontorsmaterial
+1005;2025-02-27;6110;Kontorsmaterial;3142,81;0,0;Kontorsmaterial
+1005;2025-02-27;1930;Företagskonto;0,0;3142,81;Kontorsmaterial
+1064;2025-02-28;5010;Lokalhyra;27690,22;0,0;Lokalhyra
+1064;2025-02-28;1930;Företagskonto;0,0;27690,22;Lokalhyra
+1102;2025-02-28;5010;Lokalhyra;24155,73;0,0;Lokalhyra
+1102;2025-02-28;1930;Företagskonto;0,0;24155,73;Lokalhyra
+1158;2025-02-28;5010;Lokalhyra;25125,02;0,0;Lokalhyra
+1158;2025-02-28;1930;Företagskonto;0,0;25125,02;Lokalhyra
+1193;2025-02-28;5010;Lokalhyra;24198,69;0,0;Lokalhyra
+1193;2025-02-28;1930;Företagskonto;0,0;24198,69;Lokalhyra
+1029;2025-03-01;6110;Kontorsmaterial;2888,43;0,0;Kontorsmaterial
+1029;2025-03-01;1930;Företagskonto;0,0;2888,43;Kontorsmaterial
+1133;2025-03-01;6110;Kontorsmaterial;9884,98;0,0;Kontorsmaterial
+1133;2025-03-01;1930;Företagskonto;0,0;9884,98;Kontorsmaterial
+1145;2025-03-01;7010;Löner;26867,97;0,0;Lön
+1145;2025-03-01;7510;Arbetsgivaravgifter;8441,92;0,0;Arbetsgivaravgifter
+1145;2025-03-01;1930;Företagskonto;0,0;35309,89;Lön + arbetsgivaravgifter
+1154;2025-03-01;2440;Leverantörsskulder;0,0;61319,22;Leverantörsfaktura LF-1154
+1154;2025-03-01;4010;Inköp varor;49055,38;0,0;Leverantörsfaktura LF-1154
+1154;2025-03-01;2640;Ingående moms;12263,84;0,0;Leverantörsfaktura LF-1154
+1157;2025-03-01;2440;Leverantörsskulder;0,0;4329,94;Leverantörsfaktura LF-1157
+1157;2025-03-01;6210;Telefon;3463,95;0,0;Leverantörsfaktura LF-1157
+1157;2025-03-01;2640;Ingående moms;865,99;0,0;Leverantörsfaktura LF-1157
+1181;2025-03-01;6110;Kontorsmaterial;6298,15;0,0;Kontorsmaterial
+1181;2025-03-01;1930;Företagskonto;0,0;6298,15;Kontorsmaterial
+1205;2025-03-01;6310;Företagsförsäkring;108000,0;0,0;Tilläggsförsäkring mars-nov 2025
+1205;2025-03-01;1930;Företagskonto;0,0;108000,0;Tilläggsförsäkring mars-nov 2025
+1051;2025-03-02;7010;Löner;30712,3;0,0;Lön
+1051;2025-03-02;7510;Arbetsgivaravgifter;9649,8;0,0;Arbetsgivaravgifter
+1051;2025-03-02;1930;Företagskonto;0,0;40362,1;Lön + arbetsgivaravgifter
+1138;2025-03-02;7010;Löner;32775,75;0,0;Lön
+1138;2025-03-02;7510;Arbetsgivaravgifter;10298,14;0,0;Arbetsgivaravgifter
+1138;2025-03-02;1930;Företagskonto;0,0;43073,89;Lön + arbetsgivaravgifter
+1161;2025-03-02;1510;Kundfordringar;142010,65;0,0;Faktura F-1161
+1161;2025-03-02;3010;Försäljning varor 25%;0,0;113608,52;Faktura F-1161
+1161;2025-03-02;2610;Utgående moms 25%;0,0;28402,13;Faktura F-1161
+1164;2025-03-02;1510;Kundfordringar;108469,48999999999;0,0;Faktura F-1164
+1164;2025-03-02;3010;Försäljning varor 25%;0,0;86775,59;Faktura F-1164
+1164;2025-03-02;2610;Utgående moms 25%;0,0;21693,9;Faktura F-1164
+1038;2025-03-04;1510;Kundfordringar;26526,02;0,0;Faktura F-1038
+1038;2025-03-04;3010;Försäljning varor 25%;0,0;21220,82;Faktura F-1038
+1038;2025-03-04;2610;Utgående moms 25%;0,0;5305,2;Faktura F-1038
+1040;2025-03-04;1510;Kundfordringar;183509,69;0,0;Faktura F-1040
+1040;2025-03-04;3010;Försäljning varor 25%;0,0;146807,75;Faktura F-1040
+1040;2025-03-04;2610;Utgående moms 25%;0,0;36701,94;Faktura F-1040
+1050;2025-03-04;2440;Leverantörsskulder;0,0;34278,07;Leverantörsfaktura LF-1050
+1050;2025-03-04;6210;Telefon;27422,46;0,0;Leverantörsfaktura LF-1050
+1050;2025-03-04;2640;Ingående moms;6855,61;0,0;Leverantörsfaktura LF-1050
+1152;2025-03-04;2440;Leverantörsskulder;0,0;17967,29;Leverantörsfaktura LF-1152
+1152;2025-03-04;6250;Porto;14373,83;0,0;Leverantörsfaktura LF-1152
+1152;2025-03-04;2640;Ingående moms;3593,46;0,0;Leverantörsfaktura LF-1152
+1188;2025-03-04;7010;Löner;48787,99;0,0;Lön
+1188;2025-03-04;7510;Arbetsgivaravgifter;15329,19;0,0;Arbetsgivaravgifter
+1188;2025-03-04;1930;Företagskonto;0,0;64117,18;Lön + arbetsgivaravgifter
+1022;2025-03-05;7010;Löner;51540,49;0,0;Lön
+1022;2025-03-05;7510;Arbetsgivaravgifter;16194,02;0,0;Arbetsgivaravgifter
+1022;2025-03-05;1930;Företagskonto;0,0;67734,51;Lön + arbetsgivaravgifter
+1036;2025-03-06;6110;Kontorsmaterial;2389,66;0,0;Kontorsmaterial
+1036;2025-03-06;1930;Företagskonto;0,0;2389,66;Kontorsmaterial
+1136;2025-03-06;7010;Löner;49917,08;0,0;Lön
+1136;2025-03-06;7510;Arbetsgivaravgifter;15683,95;0,0;Arbetsgivaravgifter
+1136;2025-03-06;1930;Företagskonto;0,0;65601,03;Lön + arbetsgivaravgifter
+1110;2025-03-07;1510;Kundfordringar;76066,67;0,0;Faktura F-1110
+1110;2025-03-07;3010;Försäljning varor 25%;0,0;60853,34;Faktura F-1110
+1110;2025-03-07;2610;Utgående moms 25%;0,0;15213,33;Faktura F-1110
+1284;2025-03-07;2610;Utgående moms 25%;0,0;15195,22;Faktura F-1110
+1045;2025-03-08;7010;Löner;28630,13;0,0;Lön
+1045;2025-03-08;7510;Arbetsgivaravgifter;8995,59;0,0;Arbetsgivaravgifter
+1045;2025-03-08;1930;Företagskonto;0,0;37625,72;Lön + arbetsgivaravgifter
+1140;2025-03-08;7010;Löner;43802,45;0,0;Lön
+1140;2025-03-08;7510;Arbetsgivaravgifter;13762,73;0,0;Arbetsgivaravgifter
+1140;2025-03-08;1930;Företagskonto;0,0;57565,17999999999;Lön + arbetsgivaravgifter
+1186;2025-03-08;2440;Leverantörsskulder;0,0;6493,8;Leverantörsfaktura LF-1186
+1186;2025-03-08;6210;Telefon;5195,04;0,0;Leverantörsfaktura LF-1186
+1186;2025-03-08;2640;Ingående moms;1298,76;0,0;Leverantörsfaktura LF-1186
+1068;2025-03-09;2440;Leverantörsskulder;0,0;4733,87;Leverantörsfaktura LF-1068
+1068;2025-03-09;4010;Inköp varor;3787,1;0,0;Leverantörsfaktura LF-1068
+1068;2025-03-09;2640;Ingående moms;946,77;0,0;Leverantörsfaktura LF-1068
+1191;2025-03-09;5010;Lokalhyra;27765,11;0,0;Lokalhyra
+1191;2025-03-09;1930;Företagskonto;0,0;27765,11;Lokalhyra
+1031;2025-03-10;5010;Lokalhyra;38057,96;0,0;Lokalhyra
+1031;2025-03-10;1930;Företagskonto;0,0;38057,96;Lokalhyra
+1106;2025-03-10;5010;Lokalhyra;43177,11;0,0;Lokalhyra
+1106;2025-03-10;1930;Företagskonto;0,0;43177,11;Lokalhyra
+1178;2025-03-10;7010;Löner;38946,21;0,0;Lön
+1178;2025-03-10;7510;Arbetsgivaravgifter;12236,9;0,0;Arbetsgivaravgifter
+1178;2025-03-10;1930;Företagskonto;0,0;51183,11;Lön + arbetsgivaravgifter
+1195;2025-03-10;2440;Leverantörsskulder;0,0;12981,89;Leverantörsfaktura LF-1195
+1195;2025-03-10;6210;Telefon;10385,51;0,0;Leverantörsfaktura LF-1195
+1195;2025-03-10;2640;Ingående moms;2596,38;0,0;Leverantörsfaktura LF-1195
+1043;2025-03-11;2440;Leverantörsskulder;0,0;44918,12;Leverantörsfaktura LF-1043
+1043;2025-03-11;6210;Telefon;35934,5;0,0;Leverantörsfaktura LF-1043
+1043;2025-03-11;2640;Ingående moms;8983,62;0,0;Leverantörsfaktura LF-1043
+1151;2025-03-11;6110;Kontorsmaterial;9029,21;0,0;Kontorsmaterial
+1151;2025-03-11;1930;Företagskonto;0,0;9029,21;Kontorsmaterial
+1030;2025-03-12;1510;Kundfordringar;129551,36;0,0;Faktura F-1030
+1030;2025-03-12;3010;Försäljning varor 25%;0,0;103641,09;Faktura F-1030
+1030;2025-03-12;2610;Utgående moms 25%;0,0;25910,27;Faktura F-1030
+1058;2025-03-12;1510;Kundfordringar;15419,14;0,0;Faktura F-1058
+1058;2025-03-12;3010;Försäljning varor 25%;0,0;12335,31;Faktura F-1058
+1058;2025-03-12;2610;Utgående moms 25%;0,0;3083,83;Faktura F-1058
+1082;2025-03-12;5010;Lokalhyra;42952,68;0,0;Lokalhyra
+1082;2025-03-12;1930;Företagskonto;0,0;42952,68;Lokalhyra
+1137;2025-03-12;7010;Löner;51916,24;0,0;Lön
+1137;2025-03-12;7510;Arbetsgivaravgifter;16312,08;0,0;Arbetsgivaravgifter
+1137;2025-03-12;1930;Företagskonto;0,0;68228,31999999999;Lön + arbetsgivaravgifter
+1192;2025-03-12;5010;Lokalhyra;25554,32;0,0;Lokalhyra
+1192;2025-03-12;1930;Företagskonto;0,0;25554,32;Lokalhyra
+1065;2025-03-13;7010;Löner;29643,9;0,0;Lön
+1065;2025-03-13;7510;Arbetsgivaravgifter;9314,11;0,0;Arbetsgivaravgifter
+1065;2025-03-13;1930;Företagskonto;0,0;38958,01;Lön + arbetsgivaravgifter
+1091;2025-03-13;1510;Kundfordringar;26527,14;0,0;Faktura F-1091
+1091;2025-03-13;3010;Försäljning varor 25%;0,0;21221,71;Faktura F-1091
+1091;2025-03-13;2610;Utgående moms 25%;0,0;5305,43;Faktura F-1091
+1132;2025-03-13;2440;Leverantörsskulder;0,0;57445,04;Leverantörsfaktura LF-1132
+1132;2025-03-13;4010;Inköp varor;45956,03;0,0;Leverantörsfaktura LF-1132
+1132;2025-03-13;2640;Ingående moms;11489,01;0,0;Leverantörsfaktura LF-1132
+1021;2025-03-14;5010;Lokalhyra;21378,8;0,0;Lokalhyra
+1021;2025-03-14;1930;Företagskonto;0,0;21378,8;Lokalhyra
+1071;2025-03-14;2440;Leverantörsskulder;0,0;36708,79;Leverantörsfaktura LF-1071
+1071;2025-03-14;4010;Inköp varor;29367,03;0,0;Leverantörsfaktura LF-1071
+1071;2025-03-14;2640;Ingående moms;7341,76;0,0;Leverantörsfaktura LF-1071
+1173;2025-03-14;1510;Kundfordringar;69180,69;0,0;Faktura F-1173
+1173;2025-03-14;3010;Försäljning varor 25%;0,0;55344,55;Faktura F-1173
+1173;2025-03-14;2610;Utgående moms 25%;0,0;13836,14;Faktura F-1173
+1128;2025-03-15;2440;Leverantörsskulder;0,0;45248,689999999995;Leverantörsfaktura LF-1128
+1128;2025-03-15;6210;Telefon;36198,95;0,0;Leverantörsfaktura LF-1128
+1128;2025-03-15;2640;Ingående moms;9049,74;0,0;Leverantörsfaktura LF-1128
+1147;2025-03-16;1510;Kundfordringar;161532,66999999998;0,0;Faktura F-1147
+1147;2025-03-16;3010;Försäljning varor 25%;0,0;129226,14;Faktura F-1147
+1147;2025-03-16;2610;Utgående moms 25%;0,0;32306,53;Faktura F-1147
+1155;2025-03-17;6110;Kontorsmaterial;6798,5;0,0;Kontorsmaterial
+1155;2025-03-17;1930;Företagskonto;0,0;6798,5;Kontorsmaterial
+1179;2025-03-17;5010;Lokalhyra;24669,14;0,0;Lokalhyra
+1179;2025-03-17;1930;Företagskonto;0,0;24669,14;Lokalhyra
+1196;2025-03-17;6110;Kontorsmaterial;6169,51;0,0;Kontorsmaterial
+1196;2025-03-17;1930;Företagskonto;0,0;6169,51;Kontorsmaterial
+1134;2025-03-18;5010;Lokalhyra;43501,19;0,0;Lokalhyra
+1134;2025-03-18;1930;Företagskonto;0,0;43501,19;Lokalhyra
+1003;2025-03-19;1510;Kundfordringar;107975,66;0,0;Faktura F-1003
+1003;2025-03-19;3010;Försäljning varor 25%;0,0;86380,53;Faktura F-1003
+1003;2025-03-19;2610;Utgående moms 25%;0,0;21595,13;Faktura F-1003
+1042;2025-03-19;7010;Löner;53930,89;0,0;Lön
+1042;2025-03-19;7510;Arbetsgivaravgifter;16945,09;0,0;Arbetsgivaravgifter
+1042;2025-03-19;1930;Företagskonto;0,0;70875,98;Lön + arbetsgivaravgifter
+1081;2025-03-20;6110;Kontorsmaterial;574,32;0,0;Kontorsmaterial
+1081;2025-03-20;1930;Företagskonto;0,0;574,32;Kontorsmaterial
+1127;2025-03-20;1510;Kundfordringar;88794,17;0,0;Faktura F-1127
+1127;2025-03-20;3010;Försäljning varor 25%;0,0;71035,34;Faktura F-1127
+1127;2025-03-20;2610;Utgående moms 25%;0,0;17758,83;Faktura F-1127
+1011;2025-03-21;5010;Lokalhyra;32320,56;0,0;Lokalhyra
+1011;2025-03-21;1930;Företagskonto;0,0;32320,56;Lokalhyra
+1124;2025-03-21;5010;Lokalhyra;17801,62;0,0;Lokalhyra
+1124;2025-03-21;1930;Företagskonto;0,0;17801,62;Lokalhyra
+1035;2025-03-22;5010;Lokalhyra;40250,08;0,0;Lokalhyra
+1035;2025-03-22;1930;Företagskonto;0,0;40250,08;Lokalhyra
+1000;2025-03-23;1510;Kundfordringar;10783,199999999999;0,0;Faktura F-1000
+1000;2025-03-23;3010;Försäljning varor 25%;0,0;8626,56;Faktura F-1000
+1000;2025-03-23;2610;Utgående moms 25%;0,0;2156,64;Faktura F-1000
+1014;2025-03-23;5010;Lokalhyra;19879,62;0,0;Lokalhyra
+1014;2025-03-23;1930;Företagskonto;0,0;19879,62;Lokalhyra
+1018;2025-03-23;6110;Kontorsmaterial;2586,34;0,0;Kontorsmaterial
+1018;2025-03-23;1930;Företagskonto;0,0;2586,34;Kontorsmaterial
+1086;2025-03-23;5010;Lokalhyra;30162,27;0,0;Lokalhyra
+1086;2025-03-23;1930;Företagskonto;0,0;30162,27;Lokalhyra
+1089;2025-03-23;5010;Lokalhyra;19847,46;0,0;Lokalhyra
+1089;2025-03-23;1930;Företagskonto;0,0;19847,46;Lokalhyra
+1023;2025-03-24;7010;Löner;29286,15;0,0;Lön
+1023;2025-03-24;7510;Arbetsgivaravgifter;9201,71;0,0;Arbetsgivaravgifter
+1023;2025-03-24;1930;Företagskonto;0,0;38487,86;Lön + arbetsgivaravgifter
+1105;2025-03-24;6110;Kontorsmaterial;4296,94;0,0;Kontorsmaterial
+1105;2025-03-24;1930;Företagskonto;0,0;4296,94;Kontorsmaterial
+1044;2025-03-25;5010;Lokalhyra;28143,0;0,0;Lokalhyra
+1044;2025-03-25;1930;Företagskonto;0,0;28143,0;Lokalhyra
+1257;2025-03-25;7010;Löner;45000,0;0,0;Lön Anna Svensson
+1257;2025-03-25;7510;Arbetsgivaravgifter;14139,0;0,0;Arbetsgivaravgift Anna Svensson
+1257;2025-03-25;1930;Företagskonto;0,0;59139,0;Lön + AG-avg Anna Svensson
+1258;2025-03-25;7410;Pensionskostnader;2025,0;0,0;Pension Anna Svensson
+1258;2025-03-25;1930;Företagskonto;0,0;2025,0;Pension Anna Svensson
+1259;2025-03-25;7530;Särskild löneskatt pensionskostnader;491,27;0,0;SLP pension Anna Svensson
+1259;2025-03-25;2960;Övriga upplupna kostnader;0,0;491,27;SLP pension Anna Svensson
+1260;2025-03-25;7090;Förändring semesterlöneskuld;5760,0;0,0;Semesterlöneskuld Anna Svensson
+1260;2025-03-25;2920;Upplupna semesterlöner;0,0;5760,0;Semesterlöneskuld Anna Svensson
+1261;2025-03-25;7519;Arbetsgivaravgifter semesterlön;1809,79;0,0;AG-avg semester Anna Svensson
+1261;2025-03-25;2940;Upplupna arbetsgivaravgifter;0,0;1809,79;AG-avg semester Anna Svensson
+1262;2025-03-25;7010;Löner;38000,0;0,0;Lön Erik Lindberg
+1262;2025-03-25;7510;Arbetsgivaravgifter;11939,6;0,0;Arbetsgivaravgift Erik Lindberg
+1262;2025-03-25;1930;Företagskonto;0,0;49939,6;Lön + AG-avg Erik Lindberg
+1263;2025-03-25;7410;Pensionskostnader;1710,0;0,0;Pension Erik Lindberg
+1263;2025-03-25;1930;Företagskonto;0,0;1710,0;Pension Erik Lindberg
+1264;2025-03-25;7530;Särskild löneskatt pensionskostnader;537,28;0,0;SLP pension Erik Lindberg
+1264;2025-03-25;2960;Övriga upplupna kostnader;0,0;537,28;SLP pension Erik Lindberg
+1265;2025-03-25;7090;Förändring semesterlöneskuld;4864,0;0,0;Semesterlöneskuld Erik Lindberg
+1265;2025-03-25;2920;Upplupna semesterlöner;0,0;4864,0;Semesterlöneskuld Erik Lindberg
+1266;2025-03-25;7519;Arbetsgivaravgifter semesterlön;1528,27;0,0;AG-avg semester Erik Lindberg
+1266;2025-03-25;2940;Upplupna arbetsgivaravgifter;0,0;1528,27;AG-avg semester Erik Lindberg
+1267;2025-03-25;7010;Löner;52000,0;0,0;Lön Maria Johansson
+1267;2025-03-25;7510;Arbetsgivaravgifter;16338,4;0,0;Arbetsgivaravgift Maria Johansson
+1267;2025-03-25;1930;Företagskonto;0,0;68338,4;Lön + AG-avg Maria Johansson
+1268;2025-03-25;7410;Pensionskostnader;2340,0;0,0;Pension Maria Johansson
+1268;2025-03-25;1930;Företagskonto;0,0;2340,0;Pension Maria Johansson
+1269;2025-03-25;7530;Särskild löneskatt pensionskostnader;567,68;0,0;SLP pension Maria Johansson
+1269;2025-03-25;2960;Övriga upplupna kostnader;0,0;567,68;SLP pension Maria Johansson
+1270;2025-03-25;7090;Förändring semesterlöneskuld;6656,0;0,0;Semesterlöneskuld Maria Johansson
+1270;2025-03-25;2920;Upplupna semesterlöner;0,0;6656,0;Semesterlöneskuld Maria Johansson
+1271;2025-03-25;7519;Arbetsgivaravgifter semesterlön;16338,4;0,0;AG-avg semester Maria Johansson
+1271;2025-03-25;2940;Upplupna arbetsgivaravgifter;0,0;16338,4;AG-avg semester Maria Johansson
+1272;2025-03-25;7010;Löner;41000,0;0,0;Lön Karl Nilsson
+1272;2025-03-25;7510;Arbetsgivaravgifter;12882,2;0,0;Arbetsgivaravgift Karl Nilsson
+1272;2025-03-25;1930;Företagskonto;0,0;53882,2;Lön + AG-avg Karl Nilsson
+1273;2025-03-25;7410;Pensionskostnader;1845,0;0,0;Pension Karl Nilsson
+1273;2025-03-25;1930;Företagskonto;0,0;1845,0;Pension Karl Nilsson
+1274;2025-03-25;7530;Särskild löneskatt pensionskostnader;447,6;0,0;SLP pension Karl Nilsson
+1274;2025-03-25;2960;Övriga upplupna kostnader;0,0;447,6;SLP pension Karl Nilsson
+1275;2025-03-25;7090;Förändring semesterlöneskuld;4920,0;0,0;Semesterlöneskuld Karl Nilsson
+1275;2025-03-25;2920;Upplupna semesterlöner;0,0;4920,0;Semesterlöneskuld Karl Nilsson
+1276;2025-03-25;7519;Arbetsgivaravgifter semesterlön;1648,92;0,0;AG-avg semester Karl Nilsson
+1276;2025-03-25;2940;Upplupna arbetsgivaravgifter;0,0;1648,92;AG-avg semester Karl Nilsson
+1277;2025-03-25;7010;Löner;35000,0;0,0;Lön Sara Eriksson
+1277;2025-03-25;7510;Arbetsgivaravgifter;10997,0;0,0;Arbetsgivaravgift Sara Eriksson
+1277;2025-03-25;1930;Företagskonto;0,0;45997,0;Lön + AG-avg Sara Eriksson
+1278;2025-03-25;7410;Pensionskostnader;1575,0;0,0;Pension Sara Eriksson
+1278;2025-03-25;1930;Företagskonto;0,0;1575,0;Pension Sara Eriksson
+1279;2025-03-25;7530;Särskild löneskatt pensionskostnader;382,1;0,0;SLP pension Sara Eriksson
+1279;2025-03-25;2960;Övriga upplupna kostnader;0,0;382,1;SLP pension Sara Eriksson
+1280;2025-03-25;7090;Förändring semesterlöneskuld;4480,0;0,0;Semesterlöneskuld Sara Eriksson
+1280;2025-03-25;2920;Upplupna semesterlöner;0,0;4480,0;Semesterlöneskuld Sara Eriksson
+1281;2025-03-25;7519;Arbetsgivaravgifter semesterlön;1407,62;0,0;AG-avg semester Sara Eriksson
+1281;2025-03-25;2940;Upplupna arbetsgivaravgifter;0,0;1407,62;AG-avg semester Sara Eriksson
+1114;2025-03-26;1510;Kundfordringar;136705,46;0,0;Faktura F-1114
+1114;2025-03-26;3010;Försäljning varor 25%;0,0;109364,37;Faktura F-1114
+1114;2025-03-26;2610;Utgående moms 25%;0,0;27341,09;Faktura F-1114
+1113;2025-03-27;5010;Lokalhyra;33694,66;0,0;Lokalhyra
+1113;2025-03-27;1930;Företagskonto;0,0;33694,66;Lokalhyra
+1153;2025-03-27;7010;Löner;46725,44;0,0;Lön
+1153;2025-03-27;7510;Arbetsgivaravgifter;14681,13;0,0;Arbetsgivaravgifter
+1153;2025-03-27;1930;Företagskonto;0,0;61406,57;Lön + arbetsgivaravgifter
+1122;2025-03-28;2440;Leverantörsskulder;0,0;32559,41;Leverantörsfaktura LF-1122
+1122;2025-03-28;5410;Förbrukningsinventarier;26047,53;0,0;Leverantörsfaktura LF-1122
+1122;2025-03-28;2640;Ingående moms;6511,88;0,0;Leverantörsfaktura LF-1122
+1172;2025-03-29;6110;Kontorsmaterial;8152,52;0,0;Kontorsmaterial
+1172;2025-03-29;1930;Företagskonto;0,0;8152,52;Kontorsmaterial
+1092;2025-03-30;2440;Leverantörsskulder;0,0;34667,399999999994;Leverantörsfaktura LF-1092
+1092;2025-03-30;6110;Kontorsmaterial;27733,92;0,0;Leverantörsfaktura LF-1092
+1092;2025-03-30;2640;Ingående moms;6933,48;0,0;Leverantörsfaktura LF-1092
+1190;2025-03-30;2440;Leverantörsskulder;0,0;20005,13;Leverantörsfaktura LF-1190
+1190;2025-03-30;6110;Kontorsmaterial;16004,1;0,0;Leverantörsfaktura LF-1190
+1190;2025-03-30;2640;Ingående moms;4001,03;0,0;Leverantörsfaktura LF-1190
+1283;2025-03-30;2640;Ingående moms;3962,0;0,0;Leverantörsfaktura LF-1190
+1004;2025-03-31;6110;Kontorsmaterial;4485,44;0,0;Kontorsmaterial
+1004;2025-03-31;1930;Företagskonto;0,0;4485,44;Kontorsmaterial
+1116;2025-03-31;5010;Lokalhyra;31632,37;0,0;Lokalhyra
+1116;2025-03-31;1930;Företagskonto;0,0;31632,37;Lokalhyra
+1131;2025-03-31;6110;Kontorsmaterial;4913,22;0,0;Kontorsmaterial
+1131;2025-03-31;1930;Företagskonto;0,0;4913,22;Kontorsmaterial
+1165;2025-03-31;5010;Lokalhyra;38006,94;0,0;Lokalhyra
+1165;2025-03-31;1930;Företagskonto;0,0;38006,94;Lokalhyra
+1185;2025-03-31;5010;Lokalhyra;31673,73;0,0;Lokalhyra
+1185;2025-03-31;1930;Företagskonto;0,0;31673,73;Lokalhyra
